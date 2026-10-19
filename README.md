@@ -6,7 +6,7 @@ This repository contains the source code for the Digital Clock project.
 
 ## Screenshot
 
-![Digital Clock Screenshot](docs/screenshots.png)
+![Digital Clock Screenshot](docs/screenshots/screenshot.png)
 
 ## Features
 
